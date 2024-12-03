@@ -5,7 +5,7 @@ Olist is the largest department store in Brazil. The 8 datasets provided by Olis
 
 No specific problems are defined be answered, and we are encouraged to perform comprehensive data analysis on any problem we would like to explore. It is not required to use every piece of information provided. For the data analysis, applying some of the methods learned in class is required, and other methods or software not covered are also encouraged. Make presentation slides, record a presentation video, and write a project report to present data analysis and results.
 
-`PPT.pdf` is the PPT we used for presentation. `Report.pdf` is the report ( The $\rm{4^{th}}$ section $\textbf{Customers}$ is written by me.)
+`PPT.pdf` is the PPT we used for presentation. `Report.pdf` is the report ( I contributed to the $\rm{4^{th}}$ section $\textbf{Customers}$ of the report.)
 
 The foulder `OlistData` contains the whole 8 datasets.
 
